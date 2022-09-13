@@ -1,0 +1,4 @@
+Created a new repository named MergeTest. Added a file called mergetest1.txt. 
+From here I will add another branch with its own file and then merge content back into
+the master branch. this whole exercise is to learn how to merge files in Git. Never forget to delete
+the branch after the content is merged. 
